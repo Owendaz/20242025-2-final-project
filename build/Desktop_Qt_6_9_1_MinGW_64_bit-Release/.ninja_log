@@ -1,0 +1,23 @@
+# ninja log v6
+4	139	7714884552510780	CMakeFiles/clean.additional	321391b2684b2653
+139	260	7714884553853768	clean	577b940aee94fbd7
+5	2034	7714884578756091	finalproject_autogen/timestamp	d76d9d194960367f
+5	2034	7714884578756091	finalproject_autogen/mocs_compilation.cpp	d76d9d194960367f
+5	2034	7714884578756091	C:/Users/cheny/Documents/finalproject/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/finalproject_autogen/timestamp	d76d9d194960367f
+5	2034	7714884578756091	C:/Users/cheny/Documents/finalproject/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/finalproject_autogen/mocs_compilation.cpp	d76d9d194960367f
+2038	3597	7714884580301939	CMakeFiles/finalproject.dir/finalproject_autogen/mocs_compilation.cpp.obj	1c1e478dd032851e
+2150	3778	7714884581424707	CMakeFiles/finalproject.dir/main.cpp.obj	7ee8053507495eeb
+2569	3905	7714884585609115	CMakeFiles/finalproject.dir/maze.cpp.obj	d41c533f15058316
+2366	4261	7714884583584793	CMakeFiles/finalproject.dir/mainwindow.cpp.obj	fb3425bfb2570da9
+2798	4608	7714884587901937	CMakeFiles/finalproject.dir/mazewidget.cpp.obj	6f1351e916283f41
+4609	5082	7714884606006794	finalproject.exe	8b38e03a82b0814b
+24	2437	7714998278768849	finalproject_autogen/timestamp	d76d9d194960367f
+24	2437	7714998278768849	finalproject_autogen/mocs_compilation.cpp	d76d9d194960367f
+24	2437	7714998278768849	C:/Users/cheny/Documents/finalproject/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/finalproject_autogen/timestamp	d76d9d194960367f
+24	2437	7714998278768849	C:/Users/cheny/Documents/finalproject/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/finalproject_autogen/mocs_compilation.cpp	d76d9d194960367f
+2438	4120	7714998280928464	CMakeFiles/finalproject.dir/finalproject_autogen/mocs_compilation.cpp.obj	1c1e478dd032851e
+2612	4403	7714998282674457	CMakeFiles/finalproject.dir/main.cpp.obj	7ee8053507495eeb
+3091	4425	7714998287437092	CMakeFiles/finalproject.dir/maze.cpp.obj	d41c533f15058316
+2851	4711	7714998285063416	CMakeFiles/finalproject.dir/mainwindow.cpp.obj	fb3425bfb2570da9
+3334	5148	7714998289796361	CMakeFiles/finalproject.dir/mazewidget.cpp.obj	6f1351e916283f41
+5148	5978	7714998307913646	finalproject.exe	8b38e03a82b0814b
